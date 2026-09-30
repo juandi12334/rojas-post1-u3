@@ -216,3 +216,4 @@ rojas-post1-u3/
     └── verificacion/
         (capturas intermedias de verificación, no oficiales)
 ```
+
